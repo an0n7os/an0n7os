@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi, I'm <a href="https://www.instagram.com/hack_with_vyshu">ASWII</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile</h1> 
-<p align="center">   <a href="https://github.com/keralahacker"><img src="https://github-readme-stats.vercel.app/api?username=Keralahacker&hide_border=true&show_icons=true" alt="Aswin Krishna 's github stats"></a>
+<p align="center">   <a href="https://github.com/keralahacker"><img src="https://anonyimages.s3.ap-south-1.amazonaws.com/ststs.svg" alt="Aswin Krishna 's github stats"></a>
 </p> 
 <p align="center">   <strong><a href="https://keralahacker.github.io/">Official Website</a></strong> | <strong><a href="https://hackwithvyshu.blogspot.com/">Blog</a></strong>
 
