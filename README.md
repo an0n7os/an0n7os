@@ -1,5 +1,5 @@
 # An0n7os-
-(https://user-images.githubusercontent.com/64751167/95435221-f0266500-096f-11eb-8070-57f6721b1857.gif)
+![mona-whisper](https://user-images.githubusercontent.com/64751167/95435221-f0266500-096f-11eb-8070-57f6721b1857.gif)
 
 <h1 align="center">Hi, I'm <a href="https://www.instagram.com/hack_with_vyshu">ASWII</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile</h1> 
