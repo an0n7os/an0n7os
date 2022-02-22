@@ -1,7 +1,6 @@
 # An0n7os-
 ![mona-whisper](https://user-images.githubusercontent.com/64751167/95435221-f0266500-096f-11eb-8070-57f6721b1857.gif)
-<a href="https://www.producthunt.com/posts/hacker-typer?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-hacker-typer" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=4414&theme=light" alt="Hacker Typer - Type as if you're a hacker | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-
+<iframe style="border: none;" src="https://cards.producthunt.com/cards/posts/4414?v=1" width="500" height="405" frameborder="0" scrolling="no" allowfullscreen></iframe>
 <h1 align="center">Hi, I'm <a href="https://www.instagram.com/hack_with_vyshu">ASWII</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile</h1> 
 <p align="center">   <a href="https://github.com/keralahacker"><img src="https://anonyimages.s3.ap-south-1.amazonaws.com/ststs.svg" alt="Aswin Krishna 's github stats"></a>
