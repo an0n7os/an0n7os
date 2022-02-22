@@ -9,7 +9,7 @@
 
 ![M2TsZIT](https://user-images.githubusercontent.com/64751167/91557308-e1509980-e951-11ea-9b57-695796bd82cf.gif)
 </p> 
-"<img src="https://tryhackme-badges.s3.amazonaws.com/AswinkrishnaVB.png" alt="TryHackMe">" alt="TryHackMe">
+"<img src="<script src="https://tryhackme.com/badge/620616"></script>" alt="TryHackMe">" alt="TryHackMe">
 <p align="center">❤ I'm currently [will be updated]</p> 
 
 # Languages & Tools 👨‍💻 🛠:
