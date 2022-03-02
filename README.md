@@ -11,9 +11,9 @@
 <a href="https://www.instagram.com/an0n7os/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Aswii" height="30" width="40" /></a>
 
 
-<h1 align="center">Hi, I'm <a href="https://www.instagram.com/hack_with_vyshu">ASWII</a>!</h1>
+<h1 align="center">Hi, I'm <a href="https://www.instagram.com/an0n7os/">ASWII</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile</h1> 
-<p align="center">   <a href="https://github.com/keralahacker"><img src="https://anonyimages.s3.ap-south-1.amazonaws.com/ststs.svg" alt="Aswin Krishna 's github stats"></a>
+<p align="center">   <a href="#"><img src="https://anonyimages.s3.ap-south-1.amazonaws.com/ststs.svg" alt="Aswin Krishna 's github stats"></a>
 </p> 
 <p align="center">   <strong><a href="https://an0n7-ce.github.io/An0n7os/">Official Website</a></strong> | <strong><a href="https://an0n7os.github.io/-/">Blog</a></strong>
 
