@@ -14,8 +14,8 @@
 <h1 align="center">Hi, I'm <a href="https://www.instagram.com/an0n7os/">ASWII</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile</h1> 
 
-<h1
-    ![an0n7ce's github stats](https://github-readme-stats.vercel.app/api?username=an0n7os&show_icons=true&show_icons=true&hide=issues&include_all_commits=true&theme=nightowl</h1>
+
+<h1 ![an0n7ce's github stats](https://github-readme-stats.vercel.app/api?username=an0n7os&show_icons=true&show_icons=true&hide=issues&include_all_commits=true&theme=nightowl</h1>
               
 </p> 
 <p align="center">   <strong><a href="https://an0n7-ce.github.io/An0n7os/">Official Website</a></strong> | <strong><a href="https://an0n7os.github.io/-/">Blog</a></strong>
