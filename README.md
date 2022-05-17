@@ -13,7 +13,8 @@
 
 <h1 align="center">Hi, I'm <a href="https://www.instagram.com/an0n7os/">ASWII</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile</h1> 
-<p align="center">   <a href="#"><img src="https://anonyimages.s3.ap-south-1.amazonaws.com/ststs.svg" alt="Aswin Krishna 's github stats"></a>
+
+![an0n7ce's github stats](https://github-readme-stats.vercel.app/api?username=an0n7os&show_icons=true&show_icons=true&hide=issues&include_all_commits=true&theme=nightowl
 </p> 
 <p align="center">   <strong><a href="https://an0n7-ce.github.io/An0n7os/">Official Website</a></strong> | <strong><a href="https://an0n7os.github.io/-/">Blog</a></strong>
 
