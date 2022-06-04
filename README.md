@@ -16,8 +16,12 @@
 
 # An0n7os
 
+- name: GitHub-Profile-Summary-Cards
+  uses: vn7n24fzkq/github-profile-summary-cards@v0.5.0
 
 # MY STATS (they are pathetic):
+
+
 
 
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
