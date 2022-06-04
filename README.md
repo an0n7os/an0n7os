@@ -18,7 +18,7 @@
 
 
 # MY STATS (they are pathetic):
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anon7os&theme=radical)
 
 
 
