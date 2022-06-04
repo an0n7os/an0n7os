@@ -14,9 +14,11 @@
 <h1 align="center">Hi, I'm <a href="https://www.instagram.com/an0n7os/">ASWII</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile</h1> 
 
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-</p> ![an0n7ce's github stats](https://github-readme-stats.vercel.app/api?username=an0n7os&show_icons=true&show_icons=true&hide=issues&include_all_commits=true&theme=nightowl</h1>
-              
+
 </p> 
 <p align="center">   <strong><a href="https://an0n7-ce.github.io/An0n7os/">Official Website</a></strong> | <strong><a href="https://an0n7os.github.io/-/">Blog</a></strong>
 
