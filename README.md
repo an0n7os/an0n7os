@@ -14,17 +14,13 @@
 <h1 align="center">Hi, I'm <a href="https://www.instagram.com/an0n7os/">ASWII</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile</h1> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
 # An0n7os
 
 
 # MY STATS (they are pathetic):
 
+![An0n7os's GitHub stats](https://github-readme-stats.vercel.app/api?username=An0n7os&show_icons=true&theme=radical)
 
-
-
-![An0n7os's GitHub stats](https://github-readme-stats.vercel.app/api?username=An0n7os&show_icons=true)
 
 
 
