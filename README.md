@@ -18,8 +18,8 @@
 
 
 # MY STATS (they are pathetic):
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username= &theme=radical)
 
-![Github Stats] https://github-readme-stats.vercel.app/api?username
 
 
 
