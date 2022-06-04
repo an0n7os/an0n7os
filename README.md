@@ -19,6 +19,8 @@
 
 # MY STATS (they are pathetic):
 
+![Github Stats] (https://github-readme-stats.vercel.app/api?username=An0n7os &theme=radical)
+
 
 
 
