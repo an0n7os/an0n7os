@@ -1,11 +1,6 @@
-<h3 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
 
-<div class="center">
-  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5009&color=1DF71A&background=FFFFFF00&center=true&vCenter=true&lines=I'm+Certified+EthicalHacker;UI+UX+developer;Cyber+Security+Enthusiast)](https://git.io/typing-svg)
-  </div>
+
                                                                                                                                        
 ![mona-whisper](https://user-images.githubusercontent.com/64751167/95435221-f0266500-096f-11eb-8070-57f6721b1857.gif)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F71378&background=FFFFFF00&lines=Hey%2C%F0%9F%91%8B+i'm++Aswin+krishna)](https://git.io/typing-svg)
