@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=21&duration=5009&center=true&vCenter=true&lines=Cyber+security+)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5009&color=1DF71A&background=FFFFFF00&center=true&vCenter=true&lines=I'm+Certified+EthicalHacker;UI+UX+developer;Cyber+Security+Enthusiast)](https://git.io/typing-svg)
                                                                                                                                   
 ![mona-whisper](https://user-images.githubusercontent.com/64751167/95435221-f0266500-096f-11eb-8070-57f6721b1857.gif)
