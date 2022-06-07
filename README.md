@@ -24,8 +24,7 @@
 
   
   
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=29&duration=5005&color=1DF71A&background=FFFFFF00&center=true&multiline=true&lines=root%40~%24++An0n7os)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5009&color=1DF71A&background=FFFFFF00&center=true&multiline=true&lines=root%40~%24++An0n7os)](https://git.io/typing-svg)
 
 <h1 align="center">Welcome to my GitHub profile</h1> 
 
