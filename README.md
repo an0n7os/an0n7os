@@ -23,8 +23,8 @@
      ![facebook](https://img.shields.io/badge/<badge>-%23<badge-color>.svg?style=for-the-badge&logo=<badge>&logoColor=<logo-color>)
 
   
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1DF71A&background=FFFFFF00&lines=Hi+ASWII)](https://git.io/typing-svg)
 
-<h1 align="center">Hi, I'm <a href="https://www.instagram.com/an0n7os/">ASWII</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile</h1> 
 
 <a href="http://www.github.com/mhdyaseen8841"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mhdyaseen8841&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
