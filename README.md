@@ -17,6 +17,8 @@
 <a href="https://stackoverflow.com/users/18278924/an0n7os" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
 <a href="https://www.instagram.com/an0n7os/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Aswii" height="30" width="40" /></a>
   
+  <a href="https://www.instagram.com/an0n7os/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Facebook.svg" alt="Aswii" height="30" width="40" /></a>
+  
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white)
   ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
   ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
@@ -28,10 +30,8 @@
   	![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
      ![facebook](https://img.shields.io/badge/<badge>-%23<badge-color>.svg?style=for-the-badge&logo=<badge>&logoColor=<logo-color>)
   
+ ![Discord](https://img.shields.io/badge/<badge>-%23<badge-color>.svg?style=for-the-badge&logo=<badge>&logoColor=<logo-color>) 
   
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5009&color=1DF71A&background=FFFFFF00&center=true&multiline=true&lines=root%40~%24++An0n7os)](https://git.io/typing-svg)
-
 
 </p> 
 <p align="center">   <strong><a href="https://an0n7-ce.github.io/An0n7os/">Official Website</a></strong> | <strong><a href="https://an0n7os.github.io/-/">Blog</a></strong>
