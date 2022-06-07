@@ -2,6 +2,8 @@
   Welcome to Aswin Krishna's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5009&color=1DF71A&background=FFFFFF00&center=true&vCenter=true&lines=I'm+Certified+EthicalHacker;UI+UX+developer;Cyber+Security+Enthusiast)](https://git.io/typing-svg)
 
 ![mona-whisper](https://user-images.githubusercontent.com/64751167/95435221-f0266500-096f-11eb-8070-57f6721b1857.gif)
