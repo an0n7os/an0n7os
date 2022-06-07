@@ -23,7 +23,7 @@
      ![facebook](https://img.shields.io/badge/<badge>-%23<badge-color>.svg?style=for-the-badge&logo=<badge>&logoColor=<logo-color>)
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1DF71A&background=FFFFFF00&lines=Hi+ASWII)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=29&color=1DF71A&background=FFFFFF00&center=true&lines=root%40~%24++An0n7os)](https://git.io/typing-svg)
 
 <h1 align="center">Welcome to my GitHub profile</h1> 
 
