@@ -63,7 +63,7 @@
 
 <p align="center">❤ I'm currently [will be updated]</p> 
 
-# Languages & Tools 👨‍💻 🛠:
+# Tools 👨‍💻 🛠:
 </br> 
 <p align="center"> 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
