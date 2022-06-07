@@ -19,8 +19,6 @@
 <a href="https://www.instagram.com/an0n7os/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Aswii" height="30" width="40" /></a>
 <a href="https://www.instagram.com/an0n7os/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Aswii" height="30" width="40" /></a>
   
-  
-  
   ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white)
 ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
   ![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)
@@ -33,6 +31,9 @@
 ![M2TsZIT](https://user-images.githubusercontent.com/64751167/91557308-e1509980-e951-11ea-9b57-695796bd82cf.gif)
 </p> 
 <img src="https://tryhackme-badges.s3.amazonaws.com/AswinkrishnaVB.png" alt="TryHackMe">
+### Skills
+
+
 <p align="center">❤ I'm currently [will be updated]</p> 
 
 # Languages & Tools 👨‍💻 🛠:
