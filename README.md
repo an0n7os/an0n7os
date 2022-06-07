@@ -1,4 +1,7 @@
-<rect x="0" y="0" width="100" height="100" />
+* 🌍  I'm based in Kerala
+* ✉️  You can contact me at [aswinasher@gmail.com](mailto:aswinasher@gmail.com)
+* 🧠  I'm learning fullstack developer
+* 🤝  I'm open to collaborating on Web Projects
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5009&color=1DF71A&background=FFFFFF00&center=true&vCenter=true&lines=I'm+Certified+EthicalHacker;UI+UX+developer;Cyber+Security+Enthusiast)](https://git.io/typing-svg)
 
