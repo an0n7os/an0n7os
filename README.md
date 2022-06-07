@@ -5,9 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5009&color=1DF71A&background=FFFFFF00&center=true&vCenter=true&lines=I'm+Certified+EthicalHacker;UI+UX+developer;Cyber+Security+Enthusiast)](https://git.io/typing-svg)
 
-
-Aswin krishna Here👋
-================================
+  root@~$  Aswin krishna
 * 🌍  I'm based in Kerala
 * ✉️  You can contact me at [aswinasher@gmail.com](mailto:aswinasher@gmail.com)
 * 🧠  I'm learning fullstack developer
