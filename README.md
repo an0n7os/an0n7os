@@ -33,8 +33,6 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5009&color=1DF71A&background=FFFFFF00&center=true&multiline=true&lines=root%40~%24++An0n7os)](https://git.io/typing-svg)
 
-<h1 align="center">Welcome to my GitHub profile</h1> 
-
 
 </p> 
 <p align="center">   <strong><a href="https://an0n7-ce.github.io/An0n7os/">Official Website</a></strong> | <strong><a href="https://an0n7os.github.io/-/">Blog</a></strong>
