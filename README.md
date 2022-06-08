@@ -63,7 +63,6 @@
 
 <p align="center">❤ I'm currently [will be updated]</p> 
 
-### Tools
 
 </br> 
 <p align="center"> 
