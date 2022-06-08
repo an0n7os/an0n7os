@@ -5,6 +5,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5009&color=1DF71A&background=FFFFFF00&center=true&vCenter=true&lines=I'm+Certified+EthicalHacker;UI+UX+developer;Cyber+Security+Enthusiast)](https://git.io/typing-svg)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="Aswin krishna" /> </p>
+
   root@~$  𝟒𝟓𝐰𝟏𝐧 𝐤𝐫𝟏𝟓𝐡𝐧𝟒
 * 🌍  I'm based in Kerala
 * ✉️  You can contact me at [aswinasher@gmail.com](mailto:aswinasher@gmail.com)
