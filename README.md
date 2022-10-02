@@ -99,7 +99,8 @@
 
 <a href="https://www.buymeacoffee.com/aswinasher"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-https://storage.ko-fi.com/cdn/useruploads/O5O0DASHF/qrcode.png?v=4916f403-0978-42d1-80a4-d572d699d68e
+<a href="https://storage.ko-fi.com/cdn/useruploads/O5O0DASHF/qrcode.png?v=4916f403-0978-42d1-80a4-d572d699d68e >
+         <iframe id='kofiframe' src='https://ko-fi.com/aswinasher/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='aswinasher'></iframe>
 
 
 
