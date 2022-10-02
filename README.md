@@ -99,17 +99,6 @@
 
 <a href="https://www.buymeacoffee.com/aswinasher"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('aswinasher', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support Me',
-    'floating-chat.donateButton.background-color': '#5bc0de',
-    'floating-chat.donateButton.text-color': '#323842'
-  });
-</script>
-
-
 
 © 2022 GitHub, Inc.
 Terms
