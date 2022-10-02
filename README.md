@@ -98,6 +98,7 @@
 
 
 <a href="https://www.buymeacoffee.com/aswinasher"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://ko-fi.com/aswinasher"><script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'O5O0DASHF');kofiwidget2.draw();</script> 
 
 
 
