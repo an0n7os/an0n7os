@@ -98,8 +98,8 @@
 
 
 <a href="https://www.buymeacoffee.com/aswinasher"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O0DASHF)
 
+https://storage.ko-fi.com/cdn/useruploads/O5O0DASHF/qrcode.png?v=4916f403-0978-42d1-80a4-d572d699d68e
 
 
 
