@@ -6,9 +6,6 @@
 
 
   root@~$  𝟒𝟓𝐰𝟏𝐧 𝐤𝐫𝟏𝟓𝐡𝐧𝟒
-* 🌍  I'm based in Kerala
-* ✉️  You can contact me at [aswinasher@gmail.com](mailto:aswinasher@gmail.com)
-* 🤝  I'm open to collaborating on Web Projects
 
 🔗 &nbsp;**Connect with me**
 
