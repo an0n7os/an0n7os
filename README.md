@@ -39,7 +39,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/an0n7os/an0n7os/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
