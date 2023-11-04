@@ -1,6 +1,6 @@
 
                                                                                                                                   
-<div style="width:100%;height:0;padding-bottom:117%;position:relative;"><iframe src="https://giphy.com/embed/oFvFtrhrmIFFe" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/mr-robot-gif-art-portrait-oFvFtrhrmIFFe">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/oFvFtrhrmIFFe" width="412" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mr-robot-gif-art-portrait-oFvFtrhrmIFFe">via GIPHY</a></p>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70055&random=false&width=435&lines=%CA%9C%E1%B4%87%CA%8F%F0%9F%91%8B%F0%9F%87%AE%E2%80%8B%E2%9D%9C%E2%80%8B%F0%9F%87%B2+%3E+%E1%B4%80%EA%9C%B1%E1%B4%A1%C9%AA%C9%B4+%E1%B4%8B%CA%80%C9%AA%EA%9C%B1%CA%9C%C9%B4%E1%B4%80)](https://git.io/typing-svg)
