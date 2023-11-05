@@ -61,8 +61,14 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/AswinkrishnaVB.png" alt="TryHackMe">
 
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/an0n7os/an0n7os/output/snake.svg" alt="Snake animation" />
+
+###
 
 ### Support Me
+
 
 
 © 2023 GitHub, Inc.
