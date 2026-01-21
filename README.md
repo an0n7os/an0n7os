@@ -12,10 +12,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=an0n7os&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=6&order=3" height="150" alt="streak graph"  />
-</div>
-
 ###
 
 <div align="left">
