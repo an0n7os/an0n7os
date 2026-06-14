@@ -238,9 +238,13 @@ learning_now:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=an0n7os&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&title_color=7aa2f7&text_color=a9b1d6" />
+<img src="https://github-profile-trophy.vercel.app/?username=an0n7os&theme=tokyonight&no-frame=true&column=7&margin-w=4&margin-h=4&title_color=7aa2f7&text_color=a9b1d6&bg_color=0d1117" />
 
 </div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <!--═══════════════════════════════════════════════════════════════════════════
                                   CONNECT
@@ -267,9 +271,17 @@ learning_now:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/an0n7os/an0n7os/output/snake.svg" alt="snake" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/an0n7os/an0n7os/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/an0n7os/an0n7os/output/snake-light.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/an0n7os/an0n7os/output/snake.svg" width="100%" />
+</picture>
 
 </div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <!--───────────────────────────────────────────────────────────────────────────-->
 
