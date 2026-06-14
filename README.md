@@ -3,14 +3,14 @@
 ═══════════════════════════════════════════════════════════════════════════-->
 
 <a href="#">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30&height=220&section=header&text=ASWIN%20KRISHNA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%E2%9D%AF%20Ethical%20Hacker%20%20%E2%80%A2%20%20Penetration%20Tester%20%20%E2%80%A2%20%20Web%20Developer%20%E2%9D%B0&descAlignY=58&descSize=15&stroke=7aa2f7&strokeWidth=0" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30&height=220&section=header&text=ASWIN%20KRISHNA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%E2%9D%AF%20Cyber%20Security%20Analyst%20%20%E2%80%A2%20%20Penetration%20Tester%20%20%E2%80%A2%20%20AI%20Developer%20%E2%9D%B0&descAlignY=58&descSize=15&stroke=7aa2f7&strokeWidth=0" width="100%" />
 </a>
 
 <!--───────────────────────────────────────────────────────────────────────────-->
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&height=50&lines=%3E_+Security+Researcher+%F0%9F%94%90;%3E_+Penetration+Tester+%F0%9F%92%BB;%3E_+CTF+Player+%F0%9F%9A%A9;%3E_+Bug+Bounty+Hunter+%F0%9F%90%9B;%3E_+Full+Stack+Developer+%F0%9F%8C%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&height=50&lines=%3E_+Cyber+Security+Analyst+%F0%9F%94%90;%3E_+Penetration+Tester+%F0%9F%92%BB;%3E_+CTF+Player+%F0%9F%9A%A9;%3E_+Bug+Bounty+Hunter+%F0%9F%90%9B;%3E_+Generative+AI+Developer+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 </div>
 
@@ -49,18 +49,19 @@ identity:
   name      : Aswin Krishna
   alias     : an0n7os
   location  : India 🇮🇳
-  role      : Security Researcher
+  role      : Cyber Security Analyst
 
 specialization:
   ▸ Ethical Hacking & Pentesting
-  ▸ Web Application Security
+  ▸ Web Application & API Security
   ▸ CTF Competitions
-  ▸ Full Stack Development
+  ▸ Generative AI Development
 
 learning_now:
   ▸ Red Teaming
   ▸ Malware Analysis
   ▸ Cloud Security
+  ▸ AI Security
 ```
 
 </td>
@@ -88,7 +89,7 @@ learning_now:
 
 <table align="center">
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 **⚔️ SECURITY / OS**
 
@@ -101,7 +102,7 @@ learning_now:
 ![Nmap](https://img.shields.io/badge/-Nmap-0d1117?style=flat-square&logo=ubuntu&logoColor=7aa2f7)
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 **💻 DEVELOPMENT**
 
@@ -110,7 +111,18 @@ learning_now:
 <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,express,html&theme=dark" />
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
+
+**🤖 AI / ML**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,openai&theme=dark" /><br/>
+![LangChain](https://img.shields.io/badge/-LangChain-0d1117?style=flat-square&logo=langchain&logoColor=1c3c3c)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=ffcc4d)
+
+</td>
+<td align="center" width="25%">
 
 **🧰 TOOLING**
 
@@ -121,6 +133,74 @@ learning_now:
 </td>
 </tr>
 </table>
+
+<!--═══════════════════════════════════════════════════════════════════════════
+                              ACHIEVEMENTS
+═══════════════════════════════════════════════════════════════════════════-->
+
+### `$ ./achievements --highlights`
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="48" />
+
+**Team "Lapsus$"**
+
+<sub>DCC Hacking CTF — Top Finisher 🏆</sub>
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Police%20Car%20Light.png" width="48" />
+
+**Kerala Police Cyberdome**
+
+<sub>Kozhikode Cyber Summit 2023 🚨</sub>
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crossed%20Swords.png" width="48" />
+
+**DomeCTF 2023**
+
+<sub>Kerala Police Cyberdome ⚔️</sub>
+
+</td>
+</tr>
+</table>
+
+<!--═══════════════════════════════════════════════════════════════════════════
+                              CERTIFICATIONS
+═══════════════════════════════════════════════════════════════════════════-->
+
+### `$ ./certs --verify`
+
+<div align="center">
+
+| 🎖️ Certification | 🏛️ Issuer | 📅 Date |
+|:---|:---|:---:|
+| **Certified Blockchain Practitioner (CBP)** | The SecOps Group | `Feb 2026` |
+| **Certified Cyber Security Analyst [C3SA]** | CyberWarFare Labs | `Aug 2023` |
+| **DomeCTF 2023** | Kerala Police Cyberdome | `Sep 2023` |
+| **Ransomware Uncovered Specialist** | ICTTF | `2023` |
+| **API Security Fundamentals** | APIsec University | `May 2023` |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://tryhackme.com/p/AswinkrishnaVB">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/AswinkrishnaVB.png" alt="TryHackMe" height="72" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/78147650" alt="CWL" height="72" />
+
+</div>
 
 <!--═══════════════════════════════════════════════════════════════════════════
                                  GITHUB STATS
@@ -157,22 +237,6 @@ learning_now:
 </div>
 
 <!--═══════════════════════════════════════════════════════════════════════════
-                              CERTIFICATIONS
-═══════════════════════════════════════════════════════════════════════════-->
-
-### `$ ./certs --verify`
-
-<div align="center">
-
-<a href="https://tryhackme.com/p/AswinkrishnaVB">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/AswinkrishnaVB.png" alt="TryHackMe" height="72" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/78147650" alt="CWL" height="72" />
-
-</div>
-
-<!--═══════════════════════════════════════════════════════════════════════════
                                   CONNECT
 ═══════════════════════════════════════════════════════════════════════════-->
 
@@ -180,11 +244,11 @@ learning_now:
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](#)
 [![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2)](#)
 [![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4)](#)
-[![Reddit](https://img.shields.io/badge/Reddit-0d1117?style=for-the-badge&logo=reddit&logoColor=FF4500)](#)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=25D366)](#)
-[![Twitch](https://img.shields.io/badge/Twitch-0d1117?style=for-the-badge&logo=twitch&logoColor=9146FF)](#)
+[![Reddit](https://img.shields.io/badge/Reddit-0d1117?style=for-the-badge&logo=reddit&logoColor=FF4500)](#)
 [![Linktree](https://img.shields.io/badge/Linktree-0d1117?style=for-the-badge&logo=linktree&logoColor=43E55E)](#)
 
 </div>
