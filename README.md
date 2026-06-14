@@ -3,7 +3,7 @@
 ═══════════════════════════════════════════════════════════════════════════-->
 
 <a href="#">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30&height=220&section=header&text=ASWIN%20KRISHNA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%E2%9D%AF%20Cyber%20Security%20Analyst%20%20%E2%80%A2%20%20Penetration%20Tester%20%20%E2%80%A2%20%20AI%20Developer%20%E2%9D%B0&descAlignY=58&descSize=15&stroke=7aa2f7&strokeWidth=0" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1b26,70:24283b,100:7aa2f7&height=230&section=header&text=ASWIN%20KRISHNA&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%E2%9D%AF%20%20Cyber%20Security%20Analyst%20%20%E2%80%A2%20%20Penetration%20Tester%20%20%E2%80%A2%20%20AI%20Developer%20%20%E2%9D%B0&descAlignY=56&descSize=16&descAlignX=50&stroke=7aa2f7&strokeWidth=1.2" width="100%" />
 </a>
 
 <!--───────────────────────────────────────────────────────────────────────────-->
@@ -277,4 +277,4 @@ learning_now:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30&height=140&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,30:24283b,60:1a1b26,100:0d1117&height=150&section=footer" width="100%" />
