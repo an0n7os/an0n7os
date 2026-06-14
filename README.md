@@ -271,12 +271,45 @@ learning_now:
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/an0n7os/an0n7os/output/snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/an0n7os/an0n7os/output/snake-light.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/an0n7os/an0n7os/output/snake.svg" width="100%" />
-</picture>
+name: 🐍 Generate Snake Animation
 
+on:
+  # Run automatically every 12 hours
+  schedule:
+    - cron: "0 */12 * * *"
+  # Allow manual trigger from the Actions tab
+  workflow_dispatch:
+  # Run on every push to main
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      # Generates a snake game from the user's contribution graph — GREEN theme
+      - name: Generate green snake
+        uses: Platane/snk@v3
+        id: snake-gen
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?palette=github-dark&color_snake=#39d353&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+            dist/snake-light.svg?palette=github-light&color_snake=#216e39&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
+
+      # Pushes the generated SVGs to the "output" branch
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 </div>
 
 <br/>
