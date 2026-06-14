@@ -3,7 +3,7 @@
 ═══════════════════════════════════════════════════════════════════════════-->
 
 <a href="#">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1b26,70:24283b,100:7aa2f7&height=230&section=header&text=ASWIN%20KRISHNA&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%E2%9D%AF%20%20Cyber%20Security%20Analyst%20%20%E2%80%A2%20%20Penetration%20Tester%20%20%E2%80%A2%20%20AI%20Developer%20%20%E2%9D%B0&descAlignY=56&descSize=16&descAlignX=50&stroke=7aa2f7&strokeWidth=1.2" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1b26,70:24283b,100:7aa2f7&height=240&section=header&text=A%20S%20W%20I%20N%20%20%20K%20R%20I%20S%20H%20N%20A&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9D%AF%20%20Cyber%20Security%20Analyst%20%20%E2%80%A2%20%20Penetration%20Tester%20%20%E2%80%A2%20%20AI%20Developer%20%20%E2%9D%B0&descAlignY=58&descSize=16&descAlignX=50&stroke=7aa2f7&strokeWidth=2" width="100%" />
 </a>
 
 <!--───────────────────────────────────────────────────────────────────────────-->
@@ -65,17 +65,23 @@ learning_now:
 ```
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="40%" valign="middle" align="center">
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Detective%20Light%20Skin%20Tone.png" width="120" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Detective%20Light%20Skin%20Tone.png" width="130" />
 
 <br/><br/>
 
 <a href="https://tryhackme.com/p/AswinkrishnaVB">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/AswinkrishnaVB.png" alt="TryHackMe" height="58" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/AswinkrishnaVB.png" alt="TryHackMe" height="60" />
 </a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Open_to-Collaboration-7aa2f7?style=for-the-badge&labelColor=0d1117&logo=handshake&logoColor=7aa2f7" alt="open to work" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Focus-Offensive_Security-f7768e?style=for-the-badge&labelColor=0d1117&logo=hackthebox&logoColor=f7768e" alt="focus" />
 
 </td>
 </tr>
